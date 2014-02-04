@@ -28,3 +28,5 @@ The cookbook provides the following Rake tasks for testing:
 - Copyright (C) YEAR YOUR_NAME_OR_COMPANY
 
 All rights reserved.
+
+This is a skeleton example of a private cookbook that isn't shared externally. For a public cookbook example, see [Mathias Lafeldt's skeleton cookboko](https://github.com/mlafeldt/skeleton-cookbook).
