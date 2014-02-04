@@ -1,7 +1,6 @@
-name             "skeleton"
-maintainer       "YOUR NAME"
-maintainer_email "YOUR EMAIL"
-license          "Apache 2.0"
-description      "Installs/configures something"
-version          "0.1.0"
-recipe           "skeleton::default", "Installs/configures something"
+name             'skeleton'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL@example.com'
+license          'All rights reserved'
+description      ''
+version          '0.0.1'

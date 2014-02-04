@@ -1,3 +1,3 @@
-# 0.1.0 (DATE)
+# v0.0.1
 
-* _Add your changes here_
+* Initial release
