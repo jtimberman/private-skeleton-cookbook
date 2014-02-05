@@ -22,3 +22,5 @@ MethodLength:
   Enabled: false
 TrailingComma:
   Enabled: false
+WordArray:
+  Enabled: false
